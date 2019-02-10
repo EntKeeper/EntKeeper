@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Post 1",
+    "completed": true;,
+    "professor": "Radosevic",
+    "task": "zadaca"
+  },
+   {
+    "id": 2,
+    "title": "Post 2",
+    "completed": true;,
+    "professor": "Radosevic2",
+    "task": "zadaca2"
+  },
+]
