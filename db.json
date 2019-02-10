@@ -3,14 +3,35 @@
     "id": 1,
     "title": "Post 1",
     "completed": true,
-    "professor": "Radosevic",
+    "professor": "Prof1",
     "task": "zadaca"
   },
   {
     "id": 2,
     "title": "Post 2",
     "completed": true,
-    "professor": "Radosevic2",
+    "professor": "Prof2",
     "task": "zadaca2"
-  } 
+  },
+   {
+    "id": 3,
+    "title": "Post 3",
+    "completed": true,
+    "professor": "Prof3",
+    "task": "zadaca3"
+  },
+   {
+    "id": 2,
+    "title": "Post 4",
+    "completed": true,
+    "professor": "Prof4",
+    "task": "zadaca4"
+  },
+  {
+    "id": 5,
+    "title": "Post 5",
+    "completed": true,
+    "professor": "Prof5",
+    "task": "zadaca5"
+  },
 ]
