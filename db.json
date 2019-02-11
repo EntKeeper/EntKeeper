@@ -5,43 +5,34 @@
       "title": "Post 1",
       "completed": true,
       "professor": "Prof1",
-      
-
-"task": "zadaca"
+      "task": "zadaca"
     },
     {
       "id": 2,
       "title": "Post 2",
       "completed": true,
       "professor": 
-
-"Prof2",
+      "Prof2",
       "task": "zadaca2"
      },
      {
       "id": 3,
       "title": "Post 3",
       "completed": true,
-      
-
-"professor": "Prof3",
+      "professor": "Prof3",
       "task": "zadaca3"
      },
      {
       "id": 2,
       "title": "Post 4",
-      "completed": 
-
-true,
+      "completed": true,
       "professor": "Prof4",
       "task": "zadaca4"
      },
     {
       "id": 5,
       "title": "Post 5",
-      
-
-"completed": true,
+      "completed": true,
       "professor": "Prof5",
       "task": "zadaca5"
     }
