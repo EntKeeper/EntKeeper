@@ -1,5 +1,5 @@
 {
-  
+ "tasks": [
     {
       "id": 1,
       "title": "Post 1",
@@ -35,5 +35,5 @@
       "professor": "Prof5",
       "task": "zadaca5"
     },
-  
+  ]
 }
