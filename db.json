@@ -2,39 +2,43 @@
  "tasks": [
     {
       "id": 1, 
-      "title": "Post 1",
+      "title": "Subject 1",
       "completed": false,
       "professor": "Prof1",
-      "task": "zadaca"
+      "task": "homework1",
+      "description": "Subject 1 description"
     },
     {
       "id": 2,
-      "title": "Post 2",
+      "title": "Subject 2",
       "completed": false,
-      "professor": 
-      "Prof2",
-      "task": "zadaca2"
+      "professor": "Prof2",
+      "task": "homework2",
+      "description": "Subject 2 description"
      },
      {
       "id": 3,
-      "title": "Post 3",
+      "title": "Subject 3",
       "completed": false,
       "professor": "Prof3",
-      "task": "zadaca3"
+      "task": "homework3",
+      "description": "Subject 3 description"
      },
      {
       "id": 2,
-      "title": "Post 4",
+      "title": "Subject 4",
       "completed": false,
       "professor": "Prof4",
-      "task": "zadaca4"
+      "task": "homework4",
+      "description": "Subject 4 description"
      },
     {
       "id": 5,
-      "title": "Post 5",
+      "title": "Subject 5",
       "completed": false,
       "professor": "Prof5",
-      "task": "zadaca5"
+      "task": "homework5",
+      "description": "Subject 5 description"
     }
   ]
 }
