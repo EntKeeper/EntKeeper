@@ -51,27 +51,27 @@
      "payed":true
    },
    {
-     "id: 2,
-     "name": 'Bill2',
+     "id": 2,
+     "name": "Bill2",
      "amount": 200,
-     "address": 'Adress2',
-     "description": 'Description for bill2',
+     "address": "Adress2",
+     "description": "Description for bill2",
      "payed":false
    },
   {
      "id": 3,
-     "name": 'Bill3',
+     "name": "Bill3",
      "amount": 300,
-     "address": 'Adress3',
-     "description": 'Description for bill3',
+     "address": "Adress3",
+     "description": "Description for bill3",
      "payed":false
    },
   {
      "id": 4,
-     "name": 'Bill4',
+     "name": "Bill4",
      "amount": 400,
-     "address": 'Adress4',
-     "description": 'Description for bill4',
+     "address": "Adress4",
+     "description": "Description for bill4",
      "payed":true
    },
  ]
