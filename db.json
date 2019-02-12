@@ -44,10 +44,10 @@
  "bills": [
    {
      "id": 1,
-     "name": 'Bill1',
+     "name": "Bill1",
      "amount": 100,
-     "address": 'Adress1',
-     "description": 'Description for bill1',
+     "address": "Adress1",
+     "description": "Description for bill1",
      "payed":true
    },
    {
