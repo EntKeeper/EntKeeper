@@ -41,7 +41,7 @@
       "description": "Subject 5 description"
     }
   ],
- "bills": [
+  "bills": [
    {
      "id": 1,
      "name": "Bill1",
@@ -73,6 +73,6 @@
      "address": "Adress4",
      "description": "Description for bill4",
      "payed":true
-   },
+   }
  ]
 }
