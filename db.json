@@ -74,5 +74,11 @@
      "description": "Description for bill4",
      "payed":true
    }
- ]
+ ],
+ "gears": [
+  {
+    "SRAM": "eTAP", "RED",
+    "Campagnolo": "SUPER RECORD", "CHORUS",
+    "Shimano": "ULTEGRA", "TIAGRA"
+  }
 }
