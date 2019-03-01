@@ -77,9 +77,9 @@
  ],
  "gears": [
   {
-    "SRAM": "eTAP",
-    "Campagnolo": "SUPER RECORD",
-    "Shimano": "ULTEGRA"
+    "SRAM": [ "eTAP", "RED" ],
+    "Campagnolo": [ "SUPER RECORD", "CHORUS" ],
+    "Shimano": [ "ULTEGRA", "TIAGRA" ],
   }
  ]
 }
